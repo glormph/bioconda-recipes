@@ -1,5 +1,6 @@
 #!/bin/bash
 
+export LD_LIBRARY_PATH="${PREFIX}/lib:$LD_LIBRARY_PATH"
 $PYTHON setup.py install 
 
 # Add more build steps here, if they are necessary.
