@@ -22,7 +22,7 @@ requirements:
     - python
     - setuptools
     - numpy
-    - lxml==3.6.0
+    - lxml ==3.6.0
     - biopython
     - pyyaml
   run:
@@ -32,7 +32,7 @@ requirements:
     - libiconv
     - libxml2
     - libxslt
-    - lxml==3.6.0
+    - lxml ==3.6.0
     - biopython
     - pyyaml
     ## can be removed if the upstream package includes libgcc at some point
