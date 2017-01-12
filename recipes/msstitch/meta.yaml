@@ -28,10 +28,6 @@ requirements:
   run:
     - python
     - numpy
-    # lxml runtime deps lib*
-    - libiconv
-    - libxml2
-    - libxslt
     - lxml ==3.6.0
     - biopython
     - pyyaml
