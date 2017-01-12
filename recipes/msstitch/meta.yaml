@@ -21,10 +21,6 @@ requirements:
   build:
     - python
     - setuptools
-    - numpy
-    - lxml ==3.6.0
-    - biopython
-    - pyyaml
   run:
     - python
     - numpy
