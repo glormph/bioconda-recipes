@@ -21,6 +21,7 @@ requirements:
   run:
     - gcc
     - xerces-c ==3.1.2
+    - boost ==1.62 # Specify version to ensure install from conda-forge and get static libs
     - xsd
 
 
